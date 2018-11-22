@@ -1,0 +1,11 @@
+body{
+    background: whitesmoke url("images/O5GLLH0.jpg");
+}
+
+.navbar{
+    border-radius: 0;
+}
+
+.navbar-brand {
+    font-family: 'Permanent Marker', cursive;
+}
